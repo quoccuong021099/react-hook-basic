@@ -1,0 +1,11 @@
+.color-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  user-select: none;
+  transition: all 0.1s ease-in-out 0s;
+  cursor: pointer;
+}
